@@ -746,6 +746,10 @@ pre code {
     transform: translate(1pt, -2pt) rotate(-1deg);
   }
 }
+.mermaid {
+  margin-bottom: 20px;
+  text-align: center;
+}
 .post-body .note {
   border-radius: 3px;
   margin-bottom: 20px;
@@ -1221,7 +1225,7 @@ pre code {
     vertical-align: middle;
   }
   .links-of-author a::before {
-    background: #edffab;
+    background: #9624fb;
     display: inline-block;
     margin-right: 3px;
     transform: translateY(-2px);
@@ -1531,9 +1535,6 @@ pre code {
 .links-of-author a {
   font-size: 0.8125em;
 }
-.links-of-author i[class^='fa'] {
-  margin-right: 2px;
-}
 .cc-license .cc-opacity {
   border-bottom: 0;
   opacity: 0.7;
@@ -1629,7 +1630,7 @@ pre code {
   width: 100%;
 }
 .with-love {
-  color: #f00;
+  color: #39c5bb;
   display: inline-block;
   margin: 0 5px;
 }
@@ -2582,7 +2583,6 @@ header.header {
   }
   .links-of-author-item {
     margin: 5px 0 0;
-    width: 50%;
   }
   .links-of-author-item a {
     border-bottom: 0;
