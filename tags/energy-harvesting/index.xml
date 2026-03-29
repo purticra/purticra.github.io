@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Energy Harvesting on Hongyi Lyu</title><link>https://career.purticra.icu/tags/energy-harvesting/</link><description>Recent content in Energy Harvesting on Hongyi Lyu</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hlyu68@gatech.edu (Hongyi Lyu)</managingEditor><webMaster>hlyu68@gatech.edu (Hongyi Lyu)</webMaster><copyright>Hongyi Lyu</copyright><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://career.purticra.icu/tags/energy-harvesting/index.xml" rel="self" type="application/rss+xml"/><item><title>μCHIMERA</title><link>https://career.purticra.icu/projects/uchimera/</link><pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate><author>hlyu68@gatech.edu (Hongyi Lyu)</author><guid>https://career.purticra.icu/projects/uchimera/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+ No chargers. No cables. No maintenance.
+&lt;/div>
+
+&lt;figure>&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="auto"
+ alt="μCHIMERA system overview — thermal, solar, piezoelectric generators and energy storage module"
+ width="2880"
+ height="2160"
+ src="https://career.purticra.icu/projects/uchimera/system-overview_hu_854f71cc5dcccb46.jpg"
+ srcset="https://career.purticra.icu/projects/uchimera/system-overview_hu_854f71cc5dcccb46.jpg 800w, https://career.purticra.icu/projects/uchimera/system-overview_hu_7219f9aee7a40263.jpg 1280w"
+ sizes="(min-width: 768px) 50vw, 65vw"
+ data-zoom-src="https://career.purticra.icu/projects/uchimera/system-overview.jpg">&lt;/figure>
+
+&lt;h2 class="relative group">What is μCHIMERA?
+ &lt;div id="what-is-μchimera" class="anchor">&lt;/div>
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#what-is-%ce%bcchimera" aria-label="Anchor">#&lt;/a>
+ &lt;/span>
+ 
+&lt;/h2>
+&lt;p>&lt;strong>μCHIMERA&lt;/strong> (micro Composite Harvesting Integrated Modular Energy Regeneration Array) turns ambient energy into a reliable power supply, so devices can stay on without charging, wires, or maintenance.&lt;/p></description></item></channel></rss>

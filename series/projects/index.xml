@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects on Hongyi Lyu</title><link>https://career.purticra.icu/series/projects/</link><description>Recent content in Projects on Hongyi Lyu</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hlyu68@gatech.edu (Hongyi Lyu)</managingEditor><webMaster>hlyu68@gatech.edu (Hongyi Lyu)</webMaster><copyright>Hongyi Lyu</copyright><lastBuildDate>Sun, 15 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://career.purticra.icu/series/projects/index.xml" rel="self" type="application/rss+xml"/><item><title>TachyAstroach: 36 Hours from Raw Materials to 1st Place Rover</title><link>https://career.purticra.icu/posts/technical-updates/tachyastroach-hackathon/</link><pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate><author>hlyu68@gatech.edu (Hongyi Lyu)</author><guid>https://career.purticra.icu/posts/technical-updates/tachyastroach-hackathon/</guid><description>&lt;p>A 36-hour sprint.&lt;/p>
+&lt;p>Immersed in a current of Tough 2000 resin, attitude control, ISO bolts, and bus communication — we turned raw materials into an extraterrestrial rover.&lt;/p>
+&lt;figure>&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="auto"
+ alt="The complete TachyAstroach rover system — mother rover, daughter sub-unit, and custom joystick controller"
+ width="1280"
+ height="1707"
+ src="https://career.purticra.icu/posts/technical-updates/tachyastroach-hackathon/rover-overview_hu_7eee1fca7ab17251.jpg"
+ srcset="https://career.purticra.icu/posts/technical-updates/tachyastroach-hackathon/rover-overview_hu_7eee1fca7ab17251.jpg 800w, https://career.purticra.icu/posts/technical-updates/tachyastroach-hackathon/rover-overview.jpg 1280w"
+ sizes="(min-width: 768px) 50vw, 65vw"
+ data-zoom-src="https://career.purticra.icu/posts/technical-updates/tachyastroach-hackathon/rover-overview.jpg">&lt;/figure>
+&lt;p>The GT IEEE Robotech Hackathon might not be the biggest event, but it was my first real dive into an intensive hackathon-style build. Despite freezing rain and wind, everyone showed up. Our four-member team, TachyAstroach, kicked off the mission.&lt;/p></description></item></channel></rss>

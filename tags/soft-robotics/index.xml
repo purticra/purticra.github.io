@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Soft Robotics on Hongyi Lyu</title><link>https://career.purticra.icu/tags/soft-robotics/</link><description>Recent content in Soft Robotics on Hongyi Lyu</description><generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>hlyu68@gatech.edu (Hongyi Lyu)</managingEditor><webMaster>hlyu68@gatech.edu (Hongyi Lyu)</webMaster><copyright>Hongyi Lyu</copyright><lastBuildDate>Wed, 01 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://career.purticra.icu/tags/soft-robotics/index.xml" rel="self" type="application/rss+xml"/><item><title>Bionic Frog Robot</title><link>https://career.purticra.icu/projects/frog/</link><pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate><author>hlyu68@gatech.edu (Hongyi Lyu)</author><guid>https://career.purticra.icu/projects/frog/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+ Another Way to Swim: A Lightweight Bionic Frog Robot Based on Pneumatic System
+&lt;/div>
+
+&lt;figure>&lt;img
+ class="my-0 rounded-md"
+ loading="lazy"
+ decoding="async"
+ fetchpriority="auto"
+ alt="Bionic frog robot prototype — pneumatic soft-body limbs with control electronics"
+ width="2783"
+ height="1988"
+ src="https://career.purticra.icu/projects/frog/robot-photo_hu_f4c72d59832c168.jpg"
+ srcset="https://career.purticra.icu/projects/frog/robot-photo_hu_f4c72d59832c168.jpg 800w, https://career.purticra.icu/projects/frog/robot-photo_hu_3595543b574eb3.jpg 1280w"
+ sizes="(min-width: 768px) 50vw, 65vw"
+ data-zoom-src="https://career.purticra.icu/projects/frog/robot-photo.jpg">&lt;/figure>
+
+&lt;h2 class="relative group">Overview
+ &lt;div id="overview" class="anchor">&lt;/div>
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#overview" aria-label="Anchor">#&lt;/a>
+ &lt;/span>
+ 
+&lt;/h2>
+&lt;p>This project presents a lightweight &lt;strong>bionic frog robot&lt;/strong> driven by compressed gas through pneumatic soft-body actuators. Designed to mimic the swimming motion of a frog, the robot operates on the water surface using inchworm-shaped silicone joints that deform under internal air pressure — generating propulsion and enabling directional control.&lt;/p></description></item></channel></rss>
