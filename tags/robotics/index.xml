@@ -13,8 +13,19 @@
  sizes="(min-width: 768px) 50vw, 65vw"
  data-zoom-src="https://career.purticra.icu/posts/technical-updates/tachyastroach-hackathon/rover-overview.jpg">&lt;/figure>
 &lt;p>The GT IEEE Robotech Hackathon might not be the biggest event, but it was my first real dive into an intensive hackathon-style build. Despite freezing rain and wind, everyone showed up. Our four-member team, TachyAstroach, kicked off the mission.&lt;/p></description></item><item><title>Tachy🪳Astroach: MoonLine</title><link>https://career.purticra.icu/projects/tachyastroach/</link><pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate><author>hlyu68@gatech.edu (Hongyi Lyu)</author><guid>https://career.purticra.icu/projects/tachyastroach/</guid><description>&lt;div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
- A mother-daughter rover system designed for extraterrestrial exploration — built from raw materials in 36 hours at the Georgia Tech IEEE Robotech Hackathon.
+ A mother-daughter rover system designed for extraterrestrial exploration built from raw materials in 36 hours at the Georgia Tech IEEE Robotech Hackathon.
 &lt;/div>
+
+&lt;a
+ class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
+ href="https://devpost.com/software/moonline"
+ target="_blank"
+ 
+ role="button">
+ 
+View on Devpost
+
+&lt;/a>
 
 
 &lt;h2 class="relative group">Overview
