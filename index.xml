@@ -72,16 +72,231 @@
  
 Designing a 4-layer PCB for rocket hardware-in-the-loop (HITL) testing using Altium Designer and Altium 365. Integrating STM32H573 MCU with ADS114S06 ADC for four-wire PT100 RTD temperature measurement. Implementing power regulation (24V Buck, LDO), relay driving, INA228 current monitoring, and PCF8575 GPIO expansion.
 &lt;div style="margin-top:1rem;">
-&lt;a
- class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
- href="projects/yjsp-onboarding"
- 
- 
- role="button">
- 
-YJSP Onboarding Project
 
-&lt;/a>
+
+
+
+
+ 
+
+
+ &lt;section class="space-y-10 w-full">
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+&lt;article class="article-link--shortcode flex flex-col md:flex-row relative">
+ 
+ &lt;div class=" mt-3 md:mt-0">
+ &lt;header class="items-center text-start text-xl font-semibold">
+ &lt;a
+ 
+ href="https://career.purticra.icu/projects/yjsp-onboarding/"
+ 
+ class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+ &lt;h2>
+ Yellow Jacket Space Program: Avionics Onboarding
+ 
+ &lt;/h2>
+ &lt;/a>
+ 
+ 
+ &lt;/header>
+ &lt;div class="text-sm text-neutral-500 dark:text-neutral-400">
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ &lt;time datetime="2026-05-01T00:00:00&amp;#43;00:00">May 1, 2026&lt;/time>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span>2330 words&lt;/span>
+ 
+
+ 
+ 
+ &lt;/div>
+
+ 
+
+ 
+ 
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/ece/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ ECE
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/hardware/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Hardware
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/embedded-systems/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Embedded Systems
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/pcb-design/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ PCB Design
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/altium-designer/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Altium Designer
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ 
+ 
+ 
+ &lt;/div>
+ 
+
+ 
+ 
+
+
+
+ &lt;/div>
+ 
+ &lt;/div>
+&lt;/article>
+
+ &lt;/section>
+
 
 
  &lt;/div>
@@ -126,6 +341,233 @@ YJSP Onboarding Project
  &lt;div class="mb-6">
  
 Built a pocket-sized BLE HID media controller using ESP32, tactile buttons, rotary encoder, and SSD1306 OLED. Developed firmware for BLE keyboard emulation. Designed and 3D-printed a custom enclosure in Fusion 360. Open-sourced on GitHub.
+&lt;div style="margin-top:1rem;">
+
+
+
+
+
+ 
+
+
+ &lt;section class="space-y-10 w-full">
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+&lt;article class="article-link--shortcode flex flex-col md:flex-row relative">
+ 
+ &lt;div class=" mt-3 md:mt-0">
+ &lt;header class="items-center text-start text-xl font-semibold">
+ &lt;a
+ 
+ href="https://career.purticra.icu/projects/ece-1100-media-control/"
+ 
+ class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+ &lt;h2>
+ ECE 1100: Media Control Module
+ 
+ &lt;/h2>
+ &lt;/a>
+ 
+ 
+ &lt;/header>
+ &lt;div class="text-sm text-neutral-500 dark:text-neutral-400">
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ &lt;time datetime="2026-04-18T00:00:00&amp;#43;00:00">Apr 18, 2026&lt;/time>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span>698 words&lt;/span>
+ 
+
+ 
+ 
+ &lt;/div>
+
+ 
+
+ 
+ 
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/ece/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ ECE
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/hardware/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Hardware
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/embedded-systems/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Embedded Systems
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/ble/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ BLE
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/3d-printing/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ 3D Printing
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ 
+ 
+ 
+ &lt;/div>
+ 
+
+ 
+ 
+
+
+
+ &lt;/div>
+ 
+ &lt;/div>
+&lt;/article>
+
+ &lt;/section>
+
+
 
  &lt;/div>
  &lt;/div>
@@ -168,7 +610,225 @@ Built a pocket-sized BLE HID media controller using ESP32, tactile buttons, rota
  
  &lt;div class="mb-6">
  
-Chief mechanical designer of parent-subunit moon surface rover *MoonLine*.
+Chief mechanical designer of parent-subunit moon surface rover MoonLine. 
+&lt;div style="margin-top:1rem;">
+&lt;div style="margin-top:1rem;">
+
+
+
+
+
+ 
+
+
+ &lt;section class="space-y-10 w-full">
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+&lt;article class="article-link--shortcode flex flex-col md:flex-row relative">
+ 
+ &lt;div class=" mt-3 md:mt-0">
+ &lt;header class="items-center text-start text-xl font-semibold">
+ &lt;a
+ 
+ href="https://career.purticra.icu/projects/tachyastroach/"
+ 
+ class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+ &lt;h2>
+ Tachy🪳Astroach: MoonLine
+ 
+ &lt;/h2>
+ &lt;/a>
+ 
+ 
+ &lt;/header>
+ &lt;div class="text-sm text-neutral-500 dark:text-neutral-400">
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ &lt;time datetime="2026-02-15T00:00:00&amp;#43;00:00">Feb 15, 2026&lt;/time>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span>197 words&lt;/span>
+ 
+
+ 
+ 
+ &lt;/div>
+
+ 
+
+ 
+ 
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/robotics/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Robotics
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/mechanical-design/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Mechanical Design
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/hackathon/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Hackathon
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/fusion-360/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Fusion 360
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ 
+ 
+ 
+ &lt;/div>
+ 
+
+ 
+ 
+
+
+
+ &lt;/div>
+ 
+ &lt;/div>
+&lt;/article>
+
+ &lt;/section>
+
+
 
  &lt;/div>
  &lt;/div>
@@ -212,6 +872,223 @@ Chief mechanical designer of parent-subunit moon surface rover *MoonLine*.
  &lt;div class="mb-6">
  
 Designer of PZT nano-power generating module and overall mechanical designer.
+&lt;div style="margin-top:1rem;">
+
+
+
+
+
+ 
+
+
+ &lt;section class="space-y-10 w-full">
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+&lt;article class="article-link--shortcode flex flex-col md:flex-row relative">
+ 
+ &lt;div class=" mt-3 md:mt-0">
+ &lt;header class="items-center text-start text-xl font-semibold">
+ &lt;a
+ 
+ href="https://career.purticra.icu/projects/uchimera/"
+ 
+ class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+ &lt;h2>
+ μCHIMERA
+ 
+ &lt;/h2>
+ &lt;/a>
+ 
+ 
+ &lt;/header>
+ &lt;div class="text-sm text-neutral-500 dark:text-neutral-400">
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ &lt;time datetime="2026-02-01T00:00:00&amp;#43;00:00">Feb 1, 2026&lt;/time>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span>450 words&lt;/span>
+ 
+
+ 
+ 
+ &lt;/div>
+
+ 
+
+ 
+ 
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/energy-harvesting/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Energy Harvesting
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/pcb-design/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ PCB Design
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/iot/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ IoT
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/hardware/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Hardware
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ 
+ 
+ 
+ &lt;/div>
+ 
+
+ 
+ 
+
+
+
+ &lt;/div>
+ 
+ &lt;/div>
+&lt;/article>
+
+ &lt;/section>
+
+
 
  &lt;/div>
  &lt;/div>
@@ -513,6 +1390,232 @@ Designed and fabricated substrate-integrated waveguide (SIW) microwave bandpass 
  &lt;div class="mb-6">
  
 Individual guided project: water-surface robot using pneumatic flexible joint actuators. Built with Fusion 360 modeling, ABAQUS FEA simulation, and Arduino-based wireless control. Showcased at ISEF 2024 in Los Angeles.
+
+
+
+
+
+ 
+
+
+ &lt;section class="space-y-10 w-full">
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+
+
+&lt;article class="article-link--shortcode flex flex-col md:flex-row relative">
+ 
+ &lt;div class=" mt-3 md:mt-0">
+ &lt;header class="items-center text-start text-xl font-semibold">
+ &lt;a
+ 
+ href="https://career.purticra.icu/projects/frog/"
+ 
+ class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
+ &lt;h2>
+ Bionic Frog Robot
+ 
+ &lt;/h2>
+ &lt;/a>
+ 
+ 
+ &lt;/header>
+ &lt;div class="text-sm text-neutral-500 dark:text-neutral-400">
+ 
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ &lt;time datetime="2024-05-01T00:00:00&amp;#43;00:00">May 1, 2024&lt;/time>&lt;span class="px-2 text-primary-500">&amp;middot;&lt;/span>&lt;span>407 words&lt;/span>
+ 
+
+ 
+ 
+ &lt;/div>
+
+ 
+
+ 
+ 
+ &lt;div class="flex flex-row flex-wrap items-center">
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/robotics/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Robotics
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/soft-robotics/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Soft Robotics
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/pneumatics/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Pneumatics
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/isef/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ ISEF
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ &lt;a class="relative mt-[0.5rem] me-2" href="https://career.purticra.icu/tags/bionic-design/">
+ &lt;span class="flex cursor-pointer">
+ &lt;span
+ class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+ Bionic Design
+ &lt;/span>
+&lt;/span>
+
+ &lt;/a>
+ 
+ 
+ 
+ 
+ &lt;/div>
+ 
+
+ 
+ 
+
+
+
+ &lt;/div>
+ 
+ &lt;/div>
+&lt;/article>
+
+ &lt;/section>
+
+
 
  &lt;/div>
  &lt;/div>
