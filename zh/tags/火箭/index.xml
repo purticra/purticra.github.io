@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>火箭 on Hongyi的职业作品集</title><link>https://career.purticra.icu/zh/tags/%E7%81%AB%E7%AE%AD/</link><description>Recent content in 火箭 on Hongyi的职业作品集</description><generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>hlyu68@gatech.edu (Hongyi Lyu)</managingEditor><webMaster>hlyu68@gatech.edu (Hongyi Lyu)</webMaster><copyright>Hongyi</copyright><lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://career.purticra.icu/zh/tags/%E7%81%AB%E7%AE%AD/index.xml" rel="self" type="application/rss+xml"/><item><title>加入 YJSP 航电团队 — 硬件在环测试</title><link>https://career.purticra.icu/zh/posts/career-progression/yjsp-avionics-hitl/</link><pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate><author>hlyu68@gatech.edu (Hongyi Lyu)</author><guid>https://career.purticra.icu/zh/posts/career-progression/yjsp-avionics-hitl/</guid><description>&lt;p>我近期加入了&lt;a href="https://www.gtspaceprogram.com/" target="_blank" rel="noreferrer">Yellow Jacket 太空计划（YJSP）&lt;/a>——佐治亚理工学院的学生火箭组织，目标是将一枚液体燃料探空火箭发射至卡门线以上。&lt;/p>
+
+&lt;h2 class="relative group">YJSP 航电团队是什么？
+ &lt;div id="yjsp-航电团队是什么" class="anchor">&lt;/div>
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#yjsp-%e8%88%aa%e7%94%b5%e5%9b%a2%e9%98%9f%e6%98%af%e4%bb%80%e4%b9%88" aria-label="Anchor">#&lt;/a>
+ &lt;/span>
+ 
+&lt;/h2>
+&lt;p>&lt;a href="https://www.gtspaceprogram.com/teams" target="_blank" rel="noreferrer">航电团队&lt;/a>负责 YJSP 飞行器上所有的电子硬件和软件。团队设计、实现并测试一整套定制 PCB，包括飞控计算机、发动机控制器、数据采集、飞行传感器、射频遥测和电池管理系统。除飞行关键系统外，航电团队还在飞行器及其子系统的集成与测试中发挥着重要作用。&lt;/p>
+&lt;p>Altium Designer 是所有硬件设计的核心工具——团队多年来一直依赖它来设计追踪飞行数据、控制推进以及部署回收系统的 PCB。&lt;/p>
+
+&lt;h2 class="relative group">入职流程
+ &lt;div id="入职流程" class="anchor">&lt;/div>
+ 
+ &lt;span
+ class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+ &lt;a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#%e5%85%a5%e8%81%8c%e6%b5%81%e7%a8%8b" aria-label="Anchor">#&lt;/a>
+ &lt;/span>
+ 
+&lt;/h2>
+&lt;p>入职流程从获取 YJSP Altium 工作区访问权限、完成快速测试板（RTB）设计开始。这是我第一次使用 Altium，尽管之前在其他平台有过 PCB 设计经验。这块板子的效果很不错——原理图和布局都通过了审查，并获得了入职负责人 Pratham Ingale 的积极反馈。&lt;/p></description></item></channel></rss>
